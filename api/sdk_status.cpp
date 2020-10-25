@@ -1,6 +1,6 @@
 #include "sdk_status.h"
 
-namespace core {
+namespace api {
 
     SdkStatusImpl::SdkStatusImpl(const NvAPI_Status& status) {
         if(status == NVAPI_OK) {

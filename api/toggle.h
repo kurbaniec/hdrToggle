@@ -6,7 +6,7 @@
 #include "nvapi_deps.h"
 #include "include/toggle.h"
 
-namespace core
+namespace api
 {
     class ToggleImpl : Toggle
     {

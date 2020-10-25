@@ -5,7 +5,7 @@
 #include "nvapi_deps.h"
 #include "include/sdk_status.h"
 
-namespace core
+namespace api
 {
     struct SdkStatusImpl : SdkStatus
     {

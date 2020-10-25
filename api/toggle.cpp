@@ -4,7 +4,7 @@
 #include "toggle.h"
 #include "sdk_status.h"
 
-namespace core
+namespace api
 {
     Toggle::Toggle()
     {

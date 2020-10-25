@@ -2,7 +2,7 @@
 #ifndef COLOR_MODE_PUB_H
 #define COLOR_MODE_PUB_H
 
-namespace core
+namespace api
 {
     enum COLOR_MODE
     {

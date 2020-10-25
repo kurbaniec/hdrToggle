@@ -4,7 +4,7 @@
 #include "color_mode.h"
 #include "sdk_status.h"
 
-namespace core
+namespace api
 {
     class Toggle
     {

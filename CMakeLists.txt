@@ -39,7 +39,7 @@ file(GLOB SRC_FILES
 )
 
 
-add_executable(hdrToggle main.cpp api/include/color_mode.h api/include/sdk_status.h api/include/toggle.h api/nvapi_deps.h api/sdk_status.cpp api/toggle.cpp api/sdk_status.h api/toggle.h)
+add_executable(hdrToggle main.cpp api/include/color_mode.h api/include/sdk_status.h api/include/toggle.h api/nvapi_deps.h api/sdk_status.cpp api/toggle.cpp api/sdk_status.h api/toggle.h icon/AppIcon.rc)
 
 # Needs to be after executable
 # See: https://stackoverflow.com/a/56276299/12347616
