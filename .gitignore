@@ -1,0 +1,39 @@
+# Cmake
+cmake-build-debug
+cmake-build-debug-visual-studio
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+bin
+
+# IDE
+.idea
+
+# CodeBlocks IDE
+*.cbp
+*.layout
+*.depend
+
+# VisualStudioCode IDE
+.vscode/*
+#!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# VisualStudioCode Patch
+# Ignore all local history of files
+.history
+
+# nvapi
+R450-developer
+R450-developer.zip
